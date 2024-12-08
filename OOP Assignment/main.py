@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
 
-mask_image = np.array(Image.open('M.png'))
+mask_image = np.array(Image.open('Moslah.png'))
 
 with open('CSE_64_K.txt', 'r', encoding='utf-8') as file:
     text = file.read()
