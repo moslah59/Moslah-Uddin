@@ -1,0 +1,1 @@
+#include<stdio.h>intmain(){intmyvariable=100;floatmylongname=3.14;return0;}

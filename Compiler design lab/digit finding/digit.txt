@@ -1,0 +1,4 @@
+Digits found in the file:
+1,0,5,2,1,5,1
+
+Total digits found: 7

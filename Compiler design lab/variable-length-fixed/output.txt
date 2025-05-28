@@ -1,0 +1,6 @@
+int main() {
+    int longv = 5;
+    float anoth = 3.14;
+    retur 0;
+}
+
